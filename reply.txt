@@ -3,4 +3,10 @@ started
 completed 2019-03-01 16:01:02.144025
 Python 3.6.6
 started
+<<<<<<< HEAD
 
+=======
+completed 2019-03-01 17:00:59.213914
+Hello branch
+Bye bye branch
+>>>>>>> new_branch
